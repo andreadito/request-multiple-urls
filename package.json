@@ -1,7 +1,7 @@
 {
   "name": "request-multiple-urls",
   "version": "1.0.0",
-  "description": "FT.com technical exercise",
+  "description": "",
   "main": "index.js",
   "scripts": {
     "test": "jest"
