@@ -28,7 +28,7 @@ function getJSON(url) {
   if (url) {
     const executeToJson = (resolve, reject) => {
       const options = {
-        timeout: 200,
+        timeout: 500,
       };
 
       const timeout = setTimeout(() => {
