@@ -55,7 +55,7 @@ hmple.s3-eu-w-WRONG-URL/gbp-usd.json is an invalid URL
 
 ### Notes:
 
-- I've used an Abort Controller to cancel the request if the API responds after 200ms.
+- I've used an Abort Controller to cancel the request if the API responds after 500ms.
 - In case the API fails or receive a bad status, the result will be:
 
 ```
